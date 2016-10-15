@@ -14,7 +14,7 @@ if(isset($_POST['save']))
      }
      else
      {
-     echo "<script>alert('Something went wrongssss!')</script>";
+     echo "<script>alert('Something went wrong!')</script>";
      }
 }
 ?>
